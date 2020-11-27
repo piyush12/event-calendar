@@ -1,5 +1,4 @@
 import styled from "styled-components";
-import { GoTrashcan } from "react-icons/go";
 
 const EventListUl = styled.ul`
   margin: 0;
